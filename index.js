@@ -1,3 +1,3 @@
 alert("hello world");
-var name = awais;
-var age = 30;
+var age = 30
+console(age)
